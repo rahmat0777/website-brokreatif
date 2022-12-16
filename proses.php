@@ -2,7 +2,7 @@
 
 include("config.php");
 
-if(isset($_POST['submit'])){
+if(isset($_POST['daftar'])){
 
     $nama = $_POST['nama'];
     $nip = $_POST['nip'];  
@@ -14,10 +14,10 @@ if(isset($_POST['submit'])){
     $query = mysqli_query($db, $sql);
 
     if( $query ) {
-        header('Location: #?status=sukses');
+        header('Location: data-guru.php?status=sukses');
     } else {
     
-        header('Location: #?status=gagal');
+        header('Location: data-guru.php?status=gagal');
     }
 
 
