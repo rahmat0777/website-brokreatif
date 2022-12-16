@@ -1,0 +1,113 @@
+.navbar-brand{
+    margin-top: -30px;
+}
+.one{
+    margin-right: 110px;
+   margin-top: 2px;
+   color: black;
+    
+}
+.two{
+    height:550px;
+    width: 1220px;
+    margin-top: -75px;
+    margin-left: 5px;
+    margin-bottom: 20px;
+}
+.tree{
+    margin-left: -45px;
+    margin-top: 20px;
+    
+    
+}
+.col-md-4{
+    margin-top: 20px;
+
+}
+.foter{
+    background: black;
+    color:white;
+    margin-top: 20px;
+}
+.p1{
+    background: black;
+    color:white;
+    text-align: center;
+}
+.st{
+    list-style-type: none;
+    margin-block-end: 20px;
+    text-align: center;
+    margin-right: 18px;
+    margin-bottom: 15px;
+    
+    
+}
+.five{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.pp{
+    color: greenyellow;
+}
+.q{
+    margin-right: 7px;
+}
+.w{
+    margin-right: 30px;
+}
+.e{
+    margin-right: 20px;
+}
+.r{
+    margin-right: 20px;
+}
+.t{
+    color:solid;
+    font-size: 25px;
+}
+.caro{
+    margin-left: 50px;
+    margin-top: -18px;
+}
+.vismis{
+    height: 390px;
+    margin-right: 5px;
+}
+.narasi{
+    text-align: center;
+    margin-top: 20PX;
+}
+.isi{
+    padding: 10px;
+    margin-top: 20px;
+}
+.login{
+   text-align: center;
+   margin-bottom: 10px;
+   margin-top: -40px;
+   padding: 220px;
+   background-image: url(poto/log6.jpg);
+   color: antiquewhite;
+   
+}
+.tiga{
+    background-color: rgb(15, 138, 70);
+    border-radius: 5px;
+    margin-right: 37px;
+}
+.satu{
+    height: 100px;
+    
+}
+.menu{
+    text-align: center;
+   margin-bottom: 10px;
+   margin-top: -40px;
+   padding: 220px;
+   background-image: url(poto/log6.jpg);
+   color: antiquewhite;
+}
+.form2{
+    text-align: center;
+}
